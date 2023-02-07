@@ -5,3 +5,7 @@ require 'scorched_earth/game'
 require 'scorched_earth/game_window'
 
 module ScorchedEarth; end
+
+def vasanth
+  10 + 20
+end
